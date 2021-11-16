@@ -3,5 +3,5 @@ import React from 'react';
 export default function TestReRender() {
 	console.log('Re-render TestReRender Component');
 
-	return <div>Test re-render</div>;
+	return <div></div>;
 }
